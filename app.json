@@ -1,0 +1,373 @@
+{
+  "_comment": "This file is generated. Please edit .homeycompose/app.json instead.",
+  "id": "org.earthhour",
+  "version": "1.0.0",
+  "compatibility": ">=12.4.0",
+  "sdk": 3,
+  "brandColor": "#4587C2",
+  "runtime": "nodejs",
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "Earth Hour",
+    "nl": "Earth Hour",
+    "de": "Stunde der Erde",
+    "fr": "Une Heure pour la Terre",
+    "it": "Ora della Terra",
+    "sv": "Earth Hour",
+    "no": "Earth Hour",
+    "es": "La Hora del Planeta",
+    "da": "Earth Hour",
+    "ru": "Час Земли",
+    "pl": "Godzina dla Ziemi",
+    "ko": "어스아워"
+  },
+  "description": {
+    "en": "Join the Biggest Hour for Earth.",
+    "nl": "Doe mee met het grootste uur voor de aarde.",
+    "de": "Sei dabei bei der größten Stunde für die Erde.",
+    "fr": "Rejoignez la plus grande heure pour la planète.",
+    "it": "Unisciti all'ora più grande per la Terra.",
+    "sv": "Delta i den största timmen för jorden.",
+    "no": "Bli med i den største timen for jorden.",
+    "es": "Únete a la mayor hora por el planeta.",
+    "da": "Vær med i den største time for jorden.",
+    "ru": "Примите участие в самом важном часе для Земли.",
+    "pl": "Dołącz do największej godziny dla Ziemi.",
+    "ko": "지구를 위한 가장 큰 한 시간에 동참하세요."
+  },
+  "category": [
+    "internet"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Abe Haverkamp",
+    "email": "abe.haverkamp@gmail.com"
+  },
+  "source": "https://github.com/Doekse/earthhour-homey",
+  "bugs": {
+    "url": "https://github.com/Doekse/earthhour-homey/issues"
+  },
+  "flow": {
+    "triggers": [
+      {
+        "title": {
+          "en": "Earth Hour ends",
+          "nl": "Earth Hour eindigt",
+          "de": "Stunde der Erde endet",
+          "fr": "Une Heure pour la Terre se termine",
+          "it": "Ora della Terra finisce",
+          "sv": "Earth Hour slutar",
+          "no": "Earth Hour slutter",
+          "es": "La Hora del Planeta termina",
+          "da": "Earth Hour slutter",
+          "ru": "Час Земли заканчивается",
+          "pl": "Godzina dla Ziemi kończy się",
+          "ko": "어스아워 종료"
+        },
+        "hint": {
+          "en": "Triggers when Earth Hour ends (9:30 PM on the last Saturday of March).",
+          "nl": "Activeert wanneer Earth Hour eindigt (21:30 op de laatste zaterdag van maart).",
+          "de": "Wird ausgelöst, wenn die Stunde der Erde endet (21:30 Uhr am letzten Samstag im März).",
+          "fr": "Se déclenche lorsque Une Heure pour la Terre se termine (21h30 le dernier samedi de mars).",
+          "it": "Si attiva quando l'Ora della Terra finisce (21:30 dell'ultimo sabato di marzo).",
+          "sv": "Utlöses när Earth Hour slutar (21:30 på den sista lördagen i mars).",
+          "no": "Utløses når Earth Hour slutter (21:30 på den siste lørdagen i mars).",
+          "es": "Se activa cuando La Hora del Planeta termina (21:30 del último sábado de marzo).",
+          "da": "Udløses når Earth Hour slutter (21:30 på den sidste lørdag i marts).",
+          "ru": "Срабатывает, когда Час Земли заканчивается (21:30 в последнюю субботу марта).",
+          "pl": "Uruchamia się, gdy Godzina dla Ziemi się kończy (21:30 w ostatnią sobotę marca).",
+          "ko": "어스아워가 끝날 때 트리거됩니다 (3월 마지막 토요일 21:30)."
+        },
+        "id": "earth_hour_ends"
+      },
+      {
+        "title": {
+          "en": "Earth Hour starts",
+          "nl": "Earth Hour begint",
+          "de": "Stunde der Erde beginnt",
+          "fr": "Une Heure pour la Terre commence",
+          "it": "Ora della Terra inizia",
+          "sv": "Earth Hour börjar",
+          "no": "Earth Hour starter",
+          "es": "La Hora del Planeta comienza",
+          "da": "Earth Hour starter",
+          "ru": "Час Земли начинается",
+          "pl": "Godzina dla Ziemi zaczyna się",
+          "ko": "어스아워 시작"
+        },
+        "hint": {
+          "en": "Triggers when Earth Hour begins (8:30 PM on the last Saturday of March).",
+          "nl": "Activeert wanneer Earth Hour begint (20:30 op de laatste zaterdag van maart).",
+          "de": "Wird ausgelöst, wenn die Stunde der Erde beginnt (20:30 Uhr am letzten Samstag im März).",
+          "fr": "Se déclenche lorsque Une Heure pour la Terre commence (20h30 le dernier samedi de mars).",
+          "it": "Si attiva quando l'Ora della Terra inizia (20:30 dell'ultimo sabato di marzo).",
+          "sv": "Utlöses när Earth Hour börjar (20:30 på den sista lördagen i mars).",
+          "no": "Utløses når Earth Hour starter (20:30 på den siste lørdagen i mars).",
+          "es": "Se activa cuando La Hora del Planeta comienza (20:30 del último sábado de marzo).",
+          "da": "Udløses når Earth Hour starter (20:30 på den sidste lørdag i marts).",
+          "ru": "Срабатывает, когда Час Земли начинается (20:30 в последнюю субботу марта).",
+          "pl": "Uruchamia się, gdy Godzina dla Ziemi się zaczyna (20:30 w ostatnią sobotę marca).",
+          "ko": "어스아워가 시작할 때 트리거됩니다 (3월 마지막 토요일 20:30)."
+        },
+        "id": "earth_hour_starts"
+      }
+    ],
+    "conditions": [
+      {
+        "title": {
+          "en": "Earth Hour ends in...",
+          "nl": "Earth Hour eindigt over...",
+          "de": "Stunde der Erde endet in...",
+          "fr": "Une Heure pour la Terre se termine dans...",
+          "it": "Ora della Terra finisce tra...",
+          "sv": "Earth Hour slutar om...",
+          "no": "Earth Hour slutter om...",
+          "es": "La Hora del Planeta termina en...",
+          "da": "Earth Hour slutter om...",
+          "ru": "Час Земли заканчивается через...",
+          "pl": "Godzina dla Ziemi kończy się za...",
+          "ko": "어스아워가 끝나는 시간..."
+        },
+        "titleFormatted": {
+          "en": "Earth Hour ends in [[amount]] minutes",
+          "nl": "Earth Hour eindigt over [[amount]] minuten",
+          "de": "Stunde der Erde endet in [[amount]] Minuten",
+          "fr": "Une Heure pour la Terre se termine dans [[amount]] minutes",
+          "it": "Ora della Terra finisce tra [[amount]] minuti",
+          "sv": "Earth Hour slutar om [[amount]] minuter",
+          "no": "Earth Hour slutter om [[amount]] minutter",
+          "es": "La Hora del Planeta termina en [[amount]] minutos",
+          "da": "Earth Hour slutter om [[amount]] minutter",
+          "ru": "Час Земли заканчивается через [[amount]] минут",
+          "pl": "Godzina dla Ziemi kończy się za [[amount]] minut",
+          "ko": "어스아워가 [[amount]]분 후에 끝납니다"
+        },
+        "hint": {
+          "en": "Checks if Earth Hour will end within the specified amount of minutes.",
+          "nl": "Controleert of Earth Hour binnen het opgegeven aantal minuten zal eindigen.",
+          "de": "Prüft, ob die Stunde der Erde innerhalb der angegebenen Minutenanzahl endet.",
+          "fr": "Vérifie si Une Heure pour la Terre se terminera dans le nombre de minutes spécifié.",
+          "it": "Verifica se l'Ora della Terra finirà entro il numero di minuti specificato.",
+          "sv": "Kontrollerar om Earth Hour kommer att sluta inom det angivna antalet minuter.",
+          "no": "Sjekker om Earth Hour vil slutte innen det angitte antallet minutter.",
+          "es": "Comprueba si La Hora del Planeta terminará en la cantidad de minutos especificada.",
+          "da": "Tjekker om Earth Hour vil slutte inden for det angivne antal minutter.",
+          "ru": "Проверяет, закончится ли Час Земли в течение указанного количества минут.",
+          "pl": "Sprawdza, czy Godzina dla Ziemi zakończy się w ciągu określonej liczby minut.",
+          "ko": "어스아워가 지정된 시간(분) 내에 끝나는지 확인합니다."
+        },
+        "args": [
+          {
+            "name": "amount",
+            "type": "number",
+            "min": 0,
+            "title": {
+              "en": "Minutes",
+              "nl": "Minuten",
+              "de": "Minuten",
+              "fr": "Minutes",
+              "it": "Minuti",
+              "sv": "Minuter",
+              "no": "Minutter",
+              "es": "Minutos",
+              "da": "Minutter",
+              "ru": "Минуты",
+              "pl": "Minuty",
+              "ko": "분"
+            }
+          }
+        ],
+        "id": "earth_hour_ends_in"
+      },
+      {
+        "title": {
+          "en": "Earth Hour starts in...",
+          "nl": "Earth Hour begint over...",
+          "de": "Stunde der Erde beginnt in...",
+          "fr": "Une Heure pour la Terre commence dans...",
+          "it": "Ora della Terra inizia tra...",
+          "sv": "Earth Hour börjar om...",
+          "no": "Earth Hour starter om...",
+          "es": "La Hora del Planeta comienza en...",
+          "da": "Earth Hour starter om...",
+          "ru": "Час Земли начинается через...",
+          "pl": "Godzina dla Ziemi zaczyna się za...",
+          "ko": "어스아워가 시작하는 시간..."
+        },
+        "titleFormatted": {
+          "en": "Earth Hour starts in [[amount]] [[unit]]",
+          "nl": "Earth Hour begint over [[amount]] [[unit]]",
+          "de": "Stunde der Erde beginnt in [[amount]] [[unit]]",
+          "fr": "Une Heure pour la Terre commence dans [[amount]] [[unit]]",
+          "it": "Ora della Terra inizia tra [[amount]] [[unit]]",
+          "sv": "Earth Hour börjar om [[amount]] [[unit]]",
+          "no": "Earth Hour starter om [[amount]] [[unit]]",
+          "es": "La Hora del Planeta comienza en [[amount]] [[unit]]",
+          "da": "Earth Hour starter om [[amount]] [[unit]]",
+          "ru": "Час Земли начинается через [[amount]] [[unit]]",
+          "pl": "Godzina dla Ziemi zaczyna się za [[amount]] [[unit]]",
+          "ko": "어스아워가 [[amount]] [[unit]] 후에 시작합니다"
+        },
+        "hint": {
+          "en": "Checks if Earth Hour will start within the specified amount of time.",
+          "nl": "Controleert of Earth Hour binnen de opgegeven tijd zal beginnen.",
+          "de": "Prüft, ob die Stunde der Erde innerhalb der angegebenen Zeit beginnt.",
+          "fr": "Vérifie si Une Heure pour la Terre commencera dans le temps spécifié.",
+          "it": "Verifica se l'Ora della Terra inizierà entro il tempo specificato.",
+          "sv": "Kontrollerar om Earth Hour kommer att börja inom den angivna tiden.",
+          "no": "Sjekker om Earth Hour vil starte innen den angitte tiden.",
+          "es": "Comprueba si La Hora del Planeta comenzará en el tiempo especificado.",
+          "da": "Tjekker om Earth Hour vil starte inden for den angivne tid.",
+          "ru": "Проверяет, начнётся ли Час Земли в течение указанного времени.",
+          "pl": "Sprawdza, czy Godzina dla Ziemi rozpocznie się w ciągu określonego czasu.",
+          "ko": "어스아워가 지정된 시간 내에 시작하는지 확인합니다."
+        },
+        "args": [
+          {
+            "name": "amount",
+            "type": "number",
+            "min": 0,
+            "title": {
+              "en": "Amount",
+              "nl": "Hoeveelheid",
+              "de": "Menge",
+              "fr": "Quantité",
+              "it": "Quantità",
+              "sv": "Belopp",
+              "no": "Beløp",
+              "es": "Cantidad",
+              "da": "Beløb",
+              "ru": "Количество",
+              "pl": "Ilość",
+              "ko": "수량"
+            }
+          },
+          {
+            "name": "unit",
+            "type": "dropdown",
+            "title": {
+              "en": "Unit",
+              "nl": "Eenheid",
+              "de": "Einheit",
+              "fr": "Unité",
+              "it": "Unità",
+              "sv": "Enhet",
+              "no": "Enhet",
+              "es": "Unidad",
+              "da": "Enhed",
+              "ru": "Единица",
+              "pl": "Jednostka",
+              "ko": "단위"
+            },
+            "values": [
+              {
+                "id": "minutes",
+                "label": {
+                  "en": "minutes",
+                  "nl": "minuten",
+                  "de": "Minuten",
+                  "fr": "minutes",
+                  "it": "minuti",
+                  "sv": "minuter",
+                  "no": "minutter",
+                  "es": "minutos",
+                  "da": "minutter",
+                  "ru": "минут",
+                  "pl": "minut",
+                  "ko": "분"
+                }
+              },
+              {
+                "id": "hours",
+                "label": {
+                  "en": "hours",
+                  "nl": "uren",
+                  "de": "Stunden",
+                  "fr": "heures",
+                  "it": "ore",
+                  "sv": "timmar",
+                  "no": "timer",
+                  "es": "horas",
+                  "da": "timer",
+                  "ru": "часов",
+                  "pl": "godzin",
+                  "ko": "시간"
+                }
+              }
+            ]
+          }
+        ],
+        "id": "earth_hour_starts_in"
+      },
+      {
+        "title": {
+          "en": "It !{{is|isn't}} currently Earth Hour",
+          "nl": "Het !{{is|is niet}} momenteel Earth Hour",
+          "de": "Es !{{ist|ist nicht}} gerade Stunde der Erde",
+          "fr": "C'est !{{actuellement|pas actuellement}} Une Heure pour la Terre",
+          "it": "È !{{attualmente|non attualmente}} Ora della Terra",
+          "sv": "Det !{{är|är inte}} för närvarande Earth Hour",
+          "no": "Det !{{er|er ikke}} for øyeblikket Earth Hour",
+          "es": "Actualmente !{{es|no es}} La Hora del Planeta",
+          "da": "Det !{{er|er ikke}} i øjeblikket Earth Hour",
+          "ru": "Сейчас !{{это|не}} Час Земли",
+          "pl": "Obecnie !{{jest|nie jest}} Godzina dla Ziemi",
+          "ko": "현재 !{{는|아닌}} 어스아워"
+        },
+        "hint": {
+          "en": "Checks if it is currently Earth Hour (between 8:30 PM and 9:30 PM on the last Saturday of March).",
+          "nl": "Controleert of het momenteel Earth Hour is (tussen 20:30 en 21:30 op de laatste zaterdag van maart).",
+          "de": "Prüft, ob gerade Stunde der Erde ist (zwischen 20:30 und 21:30 Uhr am letzten Samstag im März).",
+          "fr": "Vérifie si c'est actuellement Une Heure pour la Terre (entre 20h30 et 21h30 le dernier samedi de mars).",
+          "it": "Verifica se è attualmente Ora della Terra (tra le 20:30 e le 21:30 dell'ultimo sabato di marzo).",
+          "sv": "Kontrollerar om det för närvarande är Earth Hour (mellan 20:30 och 21:30 på den sista lördagen i mars).",
+          "no": "Sjekker om det for øyeblikket er Earth Hour (mellom 20:30 og 21:30 på den siste lørdagen i mars).",
+          "es": "Comprueba si actualmente es La Hora del Planeta (entre las 20:30 y las 21:30 del último sábado de marzo).",
+          "da": "Tjekker om det i øjeblikket er Earth Hour (mellem 20:30 og 21:30 på den sidste lørdag i marts).",
+          "ru": "Проверяет, является ли сейчас Час Земли (между 20:30 и 21:30 в последнюю субботу марта).",
+          "pl": "Sprawdza, czy obecnie jest Godzina dla Ziemi (między 20:30 a 21:30 w ostatnią sobotę marca).",
+          "ko": "현재 어스아워인지 확인합니다 (3월 마지막 토요일 20:30~21:30)."
+        },
+        "id": "is_currently_earth_hour"
+      },
+      {
+        "title": {
+          "en": "Today !{{is|isn't}} Earth Hour",
+          "nl": "Vandaag !{{is|is niet}} Earth Hour",
+          "de": "Heute !{{ist|ist nicht}} Stunde der Erde",
+          "fr": "Aujourd'hui !{{est|n'est pas}} Une Heure pour la Terre",
+          "it": "Oggi !{{è|non è}} Ora della Terra",
+          "sv": "Idag !{{är|är inte}} Earth Hour",
+          "no": "I dag !{{er|er ikke}} Earth Hour",
+          "es": "Hoy !{{es|no es}} La Hora del Planeta",
+          "da": "I dag !{{er|er ikke}} Earth Hour",
+          "ru": "Сегодня !{{это|не}} Час Земли",
+          "pl": "Dzisiaj !{{jest|nie jest}} Godzina dla Ziemi",
+          "ko": "오늘 !{{은|아닌}} 어스아워"
+        },
+        "hint": {
+          "en": "Checks if today is Earth Hour day (the last Saturday of March).",
+          "nl": "Controleert of vandaag Earth Hour dag is (de laatste zaterdag van maart).",
+          "de": "Prüft, ob heute Stunde der Erde Tag ist (der letzte Samstag im März).",
+          "fr": "Vérifie si aujourd'hui est le jour d'Une Heure pour la Terre (le dernier samedi de mars).",
+          "it": "Verifica se oggi è il giorno dell'Ora della Terra (l'ultimo sabato di marzo).",
+          "sv": "Kontrollerar om idag är Earth Hour dag (den sista lördagen i mars).",
+          "no": "Sjekker om i dag er Earth Hour dag (den siste lørdagen i mars).",
+          "es": "Comprueba si hoy es el día de La Hora del Planeta (el último sábado de marzo).",
+          "da": "Tjekker om i dag er Earth Hour dag (den sidste lørdag i marts).",
+          "ru": "Проверяет, является ли сегодня днём Часа Земли (последняя суббота марта).",
+          "pl": "Sprawdza, czy dzisiaj jest dzień Godziny dla Ziemi (ostatnia sobota marca).",
+          "ko": "오늘이 어스아워 날인지 확인합니다 (3월 마지막 토요일)."
+        },
+        "id": "is_earth_hour_day"
+      }
+    ]
+  }
+}

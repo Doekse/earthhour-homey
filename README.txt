@@ -1,0 +1,3 @@
+Earth Hour, organized by WWF, is a global grassroots movement uniting people to take action on environmental issues and protect the planet. Every year on the last Saturday of March, millions unite at 8:30 PM local time to turn off their lights and give an hour for Earth. This symbolic gesture inspires collective action to protect our planet.
+
+This Homey app makes it effortless to join the Biggest Hour for Earth. Automatically detect when Earth Hour begins and ends in your timezone, and use Flow triggers to turn off your lights and devices. Create conditions to check if it's currently Earth Hour, so your home can participate in this global movement. Visit earthhour.org to learn more.

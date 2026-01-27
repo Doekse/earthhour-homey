@@ -1,0 +1,9 @@
+{
+  "notifications": {
+    "thankYou": "Grazie per aver partecipato alla più grande Ora per la Terra! L'Ora della Terra si svolge il __date__ di quest'anno e inizia alle __time__. Ora puoi creare Flows per adattare la tua casa intelligente per l'Ora della Terra 🌎🏡",
+    "oneMonthBefore": "Ti è piaciuta la più grande Ora per la Terra dello scorso anno? Solo un promemoria: L'Ora della Terra si svolge il __date__ di quest'anno e inizia alle __time__. 🌎 🗓️",
+    "oneWeekBefore": "L'Ora della Terra è sabato prossimo, inizia alle __time__! Configura i tuoi Flows e partecipa. 🌎",
+    "oneDayBefore": "L'Ora della Terra è domani alle __time__! La tua casa intelligente è pronta a fare la differenza? 🌎",
+    "thirtyMinBefore": "L'Ora della Terra sta per iniziare. Goditi la più grande Ora per la Terra! 🌎 🎉"
+  }
+}

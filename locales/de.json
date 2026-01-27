@@ -1,0 +1,9 @@
+{
+  "notifications": {
+    "thankYou": "Vielen Dank, dass Sie an der größten Stunde für die Erde teilnehmen! Die Stunde der Erde findet dieses Jahr am __date__ statt und beginnt um __time__. Sie können jetzt Flows erstellen, um Ihr Smart Home für die Stunde der Erde anzupassen 🌎🏡",
+    "oneMonthBefore": "Haben Sie die größte Stunde für die Erde im letzten Jahr genossen? Nur eine Erinnerung: Die Stunde der Erde findet dieses Jahr am __date__ statt und beginnt um __time__. 🌎 🗓️",
+    "oneWeekBefore": "Die Stunde der Erde ist nächsten Samstag, sie beginnt um __time__! Richten Sie Ihre Flows ein und machen Sie mit. 🌎",
+    "oneDayBefore": "Die Stunde der Erde ist morgen um __time__! Ist Ihr Smart Home bereit, einen Unterschied zu machen? 🌎",
+    "thirtyMinBefore": "Die Stunde der Erde beginnt gleich. Genießen Sie die größte Stunde für die Erde! 🌎 🎉"
+  }
+}

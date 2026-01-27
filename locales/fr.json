@@ -1,0 +1,9 @@
+{
+  "notifications": {
+    "thankYou": "Merci de participer à la plus grande Heure pour la Terre ! Une Heure pour la Terre a lieu le __date__ cette année et commence à __time__. Vous pouvez maintenant créer des Flows pour adapter votre maison intelligente pour Une Heure pour la Terre 🌎🏡",
+    "oneMonthBefore": "Avez-vous apprécié la plus grande Heure pour la Terre l'année dernière ? Juste un rappel : Une Heure pour la Terre a lieu le __date__ cette année et commence à __time__. 🌎 🗓️",
+    "oneWeekBefore": "Une Heure pour la Terre est samedi prochain, cela commence à __time__ ! Configurez vos Flows et participez. 🌎",
+    "oneDayBefore": "Une Heure pour la Terre est demain à __time__ ! Votre maison intelligente est-elle prête à faire la différence ? 🌎",
+    "thirtyMinBefore": "Une Heure pour la Terre est sur le point de commencer. Profitez de la plus grande Heure pour la Terre ! 🌎 🎉"
+  }
+}

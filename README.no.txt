@@ -1,0 +1,3 @@
+Earth Hour, organisert av WWF, er en global grasrotbevegelse som forener mennesker for å handle mot miljøproblemer og beskytte planeten. Hvert år den siste lørdagen i mars samles millioner av mennesker klokken 20:30 lokal tid for å slå av lysene sine og gi en time for jorden. Denne symbolske gesten inspirerer til kollektiv handling for å beskytte planeten vår.
+
+Denne Homey-appen gjør det enkelt å delta i den Største Timen for Jorden. Oppdag automatisk når Earth Hour begynner og slutter i din tidssone, og bruk Flow-triggere for å slå av lysene og enhetene dine. Opprett betingelser for å sjekke om det for øyeblikket er Earth Hour, slik at hjemmet ditt kan delta i denne globale bevegelsen. Besøk earthhour.org for mer informasjon.

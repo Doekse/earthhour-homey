@@ -1,0 +1,9 @@
+{
+  "notifications": {
+    "thankYou": "Dziękujemy za udział w największej Godzinie dla Ziemi! Godzina dla Ziemi odbędzie się __date__ w tym roku i rozpocznie się o __time__. Możesz teraz tworzyć Flows, aby dostosować swój inteligentny dom do Godziny dla Ziemi 🌎🏡",
+    "oneMonthBefore": "Czy podobała Ci się największa Godzina dla Ziemi w zeszłym roku? Tylko przypomnienie: Godzina dla Ziemi odbędzie się __date__ w tym roku i rozpocznie się o __time__. 🌎 🗓️",
+    "oneWeekBefore": "Godzina dla Ziemi jest w następną sobotę, rozpoczyna się o __time__! Skonfiguruj swoje Flows i dołącz. 🌎",
+    "oneDayBefore": "Godzina dla Ziemi jest jutro o __time__! Czy Twój inteligentny dom jest gotowy, aby coś zmienić? 🌎",
+    "thirtyMinBefore": "Godzina dla Ziemi zaraz się rozpocznie. Ciesz się największą Godziną dla Ziemi! 🌎 🎉"
+  }
+}

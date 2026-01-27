@@ -1,0 +1,119 @@
+{
+  "title": {
+    "en": "Earth Hour starts in...",
+    "nl": "Earth Hour begint over...",
+    "de": "Stunde der Erde beginnt in...",
+    "fr": "Une Heure pour la Terre commence dans...",
+    "it": "Ora della Terra inizia tra...",
+    "sv": "Earth Hour börjar om...",
+    "no": "Earth Hour starter om...",
+    "es": "La Hora del Planeta comienza en...",
+    "da": "Earth Hour starter om...",
+    "ru": "Час Земли начинается через...",
+    "pl": "Godzina dla Ziemi zaczyna się za...",
+    "ko": "어스아워가 시작하는 시간..."
+  },
+  "titleFormatted": {
+    "en": "Earth Hour starts in [[amount]] [[unit]]",
+    "nl": "Earth Hour begint over [[amount]] [[unit]]",
+    "de": "Stunde der Erde beginnt in [[amount]] [[unit]]",
+    "fr": "Une Heure pour la Terre commence dans [[amount]] [[unit]]",
+    "it": "Ora della Terra inizia tra [[amount]] [[unit]]",
+    "sv": "Earth Hour börjar om [[amount]] [[unit]]",
+    "no": "Earth Hour starter om [[amount]] [[unit]]",
+    "es": "La Hora del Planeta comienza en [[amount]] [[unit]]",
+    "da": "Earth Hour starter om [[amount]] [[unit]]",
+    "ru": "Час Земли начинается через [[amount]] [[unit]]",
+    "pl": "Godzina dla Ziemi zaczyna się za [[amount]] [[unit]]",
+    "ko": "어스아워가 [[amount]] [[unit]] 후에 시작합니다"
+  },
+  "hint": {
+    "en": "Checks if Earth Hour will start within the specified amount of time.",
+    "nl": "Controleert of Earth Hour binnen de opgegeven tijd zal beginnen.",
+    "de": "Prüft, ob die Stunde der Erde innerhalb der angegebenen Zeit beginnt.",
+    "fr": "Vérifie si Une Heure pour la Terre commencera dans le temps spécifié.",
+    "it": "Verifica se l'Ora della Terra inizierà entro il tempo specificato.",
+    "sv": "Kontrollerar om Earth Hour kommer att börja inom den angivna tiden.",
+    "no": "Sjekker om Earth Hour vil starte innen den angitte tiden.",
+    "es": "Comprueba si La Hora del Planeta comenzará en el tiempo especificado.",
+    "da": "Tjekker om Earth Hour vil starte inden for den angivne tid.",
+    "ru": "Проверяет, начнётся ли Час Земли в течение указанного времени.",
+    "pl": "Sprawdza, czy Godzina dla Ziemi rozpocznie się w ciągu określonego czasu.",
+    "ko": "어스아워가 지정된 시간 내에 시작하는지 확인합니다."
+  },
+  "args": [
+    {
+      "name": "amount",
+      "type": "number",
+      "min": 0,
+      "title": {
+        "en": "Amount",
+        "nl": "Hoeveelheid",
+        "de": "Menge",
+        "fr": "Quantité",
+        "it": "Quantità",
+        "sv": "Belopp",
+        "no": "Beløp",
+        "es": "Cantidad",
+        "da": "Beløb",
+        "ru": "Количество",
+        "pl": "Ilość",
+        "ko": "수량"
+      }
+    },
+    {
+      "name": "unit",
+      "type": "dropdown",
+      "title": {
+        "en": "Unit",
+        "nl": "Eenheid",
+        "de": "Einheit",
+        "fr": "Unité",
+        "it": "Unità",
+        "sv": "Enhet",
+        "no": "Enhet",
+        "es": "Unidad",
+        "da": "Enhed",
+        "ru": "Единица",
+        "pl": "Jednostka",
+        "ko": "단위"
+      },
+      "values": [
+        {
+          "id": "minutes",
+          "label": {
+            "en": "minutes",
+            "nl": "minuten",
+            "de": "Minuten",
+            "fr": "minutes",
+            "it": "minuti",
+            "sv": "minuter",
+            "no": "minutter",
+            "es": "minutos",
+            "da": "minutter",
+            "ru": "минут",
+            "pl": "minut",
+            "ko": "분"
+          }
+        },
+        {
+          "id": "hours",
+          "label": {
+            "en": "hours",
+            "nl": "uren",
+            "de": "Stunden",
+            "fr": "heures",
+            "it": "ore",
+            "sv": "timmar",
+            "no": "timer",
+            "es": "horas",
+            "da": "timer",
+            "ru": "часов",
+            "pl": "godzin",
+            "ko": "시간"
+          }
+        }
+      ]
+    }
+  ]
+}

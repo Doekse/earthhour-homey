@@ -1,0 +1,3 @@
+L'Ora della Terra, organizzata dal WWF, è un movimento globale dal basso che unisce le persone per agire sulle questioni ambientali e proteggere il pianeta. Ogni anno, l'ultimo sabato di marzo, milioni di persone si uniscono alle 20:30 ora locale per spegnere le luci e donare un'ora alla Terra. Questo gesto simbolico ispira un'azione collettiva per proteggere il nostro pianeta.
+
+Questa app Homey rende semplice partecipare alla Più Grande Ora per la Terra. Rileva automaticamente quando inizia e finisce l'Ora della Terra nel tuo fuso orario, e usa i trigger Flow per spegnere luci e dispositivi. Crea condizioni per verificare se è attualmente l'Ora della Terra, così la tua casa può partecipare a questo movimento globale. Visita earthhour.org per saperne di più.

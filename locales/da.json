@@ -1,0 +1,9 @@
+{
+  "notifications": {
+    "thankYou": "Tak for at du deltager i den største time for jorden! Earth Hour finder sted den __date__ i år og starter kl __time__. Du kan nu oprette Flows for at tilpasse dit smart home til Earth Hour 🌎🏡",
+    "oneMonthBefore": "Nød du den største time for jorden sidste år? Bare en påmindelse: Earth Hour finder sted den __date__ i år og starter kl __time__. 🌎 🗓️",
+    "oneWeekBefore": "Earth Hour er næste lørdag, det starter kl __time__! Sæt dine Flows op og deltag. 🌎",
+    "oneDayBefore": "Earth Hour er i morgen kl __time__! Er dit smart home klar til at gøre en forskel? 🌎",
+    "thirtyMinBefore": "Earth Hour er ved at starte. Nyd den største time for jorden! 🌎 🎉"
+  }
+}

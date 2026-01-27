@@ -1,0 +1,30 @@
+{
+  "title": {
+    "en": "Earth Hour ends",
+    "nl": "Earth Hour eindigt",
+    "de": "Stunde der Erde endet",
+    "fr": "Une Heure pour la Terre se termine",
+    "it": "Ora della Terra finisce",
+    "sv": "Earth Hour slutar",
+    "no": "Earth Hour slutter",
+    "es": "La Hora del Planeta termina",
+    "da": "Earth Hour slutter",
+    "ru": "Час Земли заканчивается",
+    "pl": "Godzina dla Ziemi kończy się",
+    "ko": "어스아워 종료"
+  },
+  "hint": {
+    "en": "Triggers when Earth Hour ends (9:30 PM on the last Saturday of March).",
+    "nl": "Activeert wanneer Earth Hour eindigt (21:30 op de laatste zaterdag van maart).",
+    "de": "Wird ausgelöst, wenn die Stunde der Erde endet (21:30 Uhr am letzten Samstag im März).",
+    "fr": "Se déclenche lorsque Une Heure pour la Terre se termine (21h30 le dernier samedi de mars).",
+    "it": "Si attiva quando l'Ora della Terra finisce (21:30 dell'ultimo sabato di marzo).",
+    "sv": "Utlöses när Earth Hour slutar (21:30 på den sista lördagen i mars).",
+    "no": "Utløses når Earth Hour slutter (21:30 på den siste lørdagen i mars).",
+    "es": "Se activa cuando La Hora del Planeta termina (21:30 del último sábado de marzo).",
+    "da": "Udløses når Earth Hour slutter (21:30 på den sidste lørdag i marts).",
+    "ru": "Срабатывает, когда Час Земли заканчивается (21:30 в последнюю субботу марта).",
+    "pl": "Uruchamia się, gdy Godzina dla Ziemi się kończy (21:30 w ostatnią sobotę marca).",
+    "ko": "어스아워가 끝날 때 트리거됩니다 (3월 마지막 토요일 21:30)."
+  }
+}

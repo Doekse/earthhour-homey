@@ -1,0 +1,3 @@
+Godzina dla Ziemi, organizowana przez WWF, to globalny ruch oddolny łączący ludzi w działaniach na rzecz środowiska i ochrony planety. Co roku w ostatnią sobotę marca miliony ludzi łączą się o 20:30 czasu lokalnego, aby zgasić światła i poświęcić godzinę dla Ziemi. Ten symboliczny gest inspiruje do zbiorowych działań na rzecz ochrony naszej planety.
+
+Ta aplikacja Homey ułatwia udział w Największej Godzinie dla Ziemi. Automatycznie wykrywaj, kiedy Godzina dla Ziemi zaczyna się i kończy w twojej strefie czasowej, i używaj wyzwalaczy Flow, aby wyłączyć światła i urządzenia. Twórz warunki, aby sprawdzić, czy obecnie trwa Godzina dla Ziemi, aby twój dom mógł uczestniczyć w tym globalnym ruchu. Odwiedź earthhour.org, aby dowiedzieć się więcej.

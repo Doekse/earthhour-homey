@@ -1,0 +1,56 @@
+{
+  "id": "org.earthhour",
+  "version": "1.0.0",
+  "compatibility": ">=12.4.0",
+  "sdk": 3,
+  "brandColor": "#4587C2",
+  "runtime": "nodejs",
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "Earth Hour",
+    "nl": "Earth Hour",
+    "de": "Stunde der Erde",
+    "fr": "Une Heure pour la Terre",
+    "it": "Ora della Terra",
+    "sv": "Earth Hour",
+    "no": "Earth Hour",
+    "es": "La Hora del Planeta",
+    "da": "Earth Hour",
+    "ru": "Час Земли",
+    "pl": "Godzina dla Ziemi",
+    "ko": "어스아워"
+  },
+  "description": {
+    "en": "Join the Biggest Hour for Earth.",
+    "nl": "Doe mee met het grootste uur voor de aarde.",
+    "de": "Sei dabei bei der größten Stunde für die Erde.",
+    "fr": "Rejoignez la plus grande heure pour la planète.",
+    "it": "Unisciti all'ora più grande per la Terra.",
+    "sv": "Delta i den största timmen för jorden.",
+    "no": "Bli med i den største timen for jorden.",
+    "es": "Únete a la mayor hora por el planeta.",
+    "da": "Vær med i den største time for jorden.",
+    "ru": "Примите участие в самом важном часе для Земли.",
+    "pl": "Dołącz do największej godziny dla Ziemi.",
+    "ko": "지구를 위한 가장 큰 한 시간에 동참하세요."
+  },
+  "category": [
+    "internet"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Abe Haverkamp",
+    "email": "abe.haverkamp@gmail.com"
+  },
+  "source": "https://github.com/Doekse/earthhour-homey",
+  "bugs": {
+    "url": "https://github.com/Doekse/earthhour-homey/issues"
+  }
+}

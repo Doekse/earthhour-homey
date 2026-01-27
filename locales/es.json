@@ -1,0 +1,9 @@
+{
+  "notifications": {
+    "thankYou": "¡Gracias por unirte a la mayor Hora por el Planeta! La Hora del Planeta tiene lugar el __date__ de este año y comienza a las __time__. Ahora puedes crear Flows para adaptar tu hogar inteligente para La Hora del Planeta 🌎🏡",
+    "oneMonthBefore": "¿Disfrutaste de la mayor Hora por el Planeta el año pasado? Solo un recordatorio: La Hora del Planeta tiene lugar el __date__ de este año y comienza a las __time__. 🌎 🗓️",
+    "oneWeekBefore": "La Hora del Planeta es el próximo sábado, ¡comienza a las __time__! Configura tus Flows y únete. 🌎",
+    "oneDayBefore": "¡La Hora del Planeta es mañana a las __time__! ¿Está tu hogar inteligente listo para marcar la diferencia? 🌎",
+    "thirtyMinBefore": "La Hora del Planeta está a punto de comenzar. ¡Disfruta de la mayor Hora por el Planeta! 🌎 🎉"
+  }
+}
