@@ -1,6 +1,6 @@
 {
   "name": "org.earthhour",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "app.js",
   "scripts": {
     "lint": "eslint --ext .js,.ts --ignore-path .gitignore .",

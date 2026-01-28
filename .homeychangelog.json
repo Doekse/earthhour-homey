@@ -1,4 +1,7 @@
 {
+  "1.0.2": {
+    "en": "Fixed remaining German translations in source files (.homeycompose)"
+  },
   "1.0.1": {
     "en": "Changed German translations to use 'Earth Hour' instead of 'Stunde der Erde'"
   },

@@ -2,7 +2,7 @@
   "title": {
     "en": "Earth Hour starts in...",
     "nl": "Earth Hour begint over...",
-    "de": "Stunde der Erde beginnt in...",
+    "de": "Earth Hour beginnt in...",
     "fr": "Une Heure pour la Terre commence dans...",
     "it": "Ora della Terra inizia tra...",
     "sv": "Earth Hour börjar om...",
@@ -16,7 +16,7 @@
   "titleFormatted": {
     "en": "Earth Hour starts in [[amount]] [[unit]]",
     "nl": "Earth Hour begint over [[amount]] [[unit]]",
-    "de": "Stunde der Erde beginnt in [[amount]] [[unit]]",
+    "de": "Earth Hour beginnt in [[amount]] [[unit]]",
     "fr": "Une Heure pour la Terre commence dans [[amount]] [[unit]]",
     "it": "Ora della Terra inizia tra [[amount]] [[unit]]",
     "sv": "Earth Hour börjar om [[amount]] [[unit]]",
@@ -30,7 +30,7 @@
   "hint": {
     "en": "Checks if Earth Hour will start within the specified amount of time.",
     "nl": "Controleert of Earth Hour binnen de opgegeven tijd zal beginnen.",
-    "de": "Prüft, ob die Stunde der Erde innerhalb der angegebenen Zeit beginnt.",
+    "de": "Prüft, ob Earth Hour innerhalb der angegebenen Zeit beginnt.",
     "fr": "Vérifie si Une Heure pour la Terre commencera dans le temps spécifié.",
     "it": "Verifica se l'Ora della Terra inizierà entro il tempo specificato.",
     "sv": "Kontrollerar om Earth Hour kommer att börja inom den angivna tiden.",

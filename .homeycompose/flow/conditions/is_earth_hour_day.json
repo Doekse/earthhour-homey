@@ -2,7 +2,7 @@
   "title": {
     "en": "Today !{{is|isn't}} Earth Hour",
     "nl": "Vandaag !{{is|is niet}} Earth Hour",
-    "de": "Heute !{{ist|ist nicht}} Stunde der Erde",
+    "de": "Heute !{{ist|ist nicht}} Earth Hour",
     "fr": "Aujourd'hui !{{est|n'est pas}} Une Heure pour la Terre",
     "it": "Oggi !{{è|non è}} Ora della Terra",
     "sv": "Idag !{{är|är inte}} Earth Hour",
@@ -16,7 +16,7 @@
   "hint": {
     "en": "Checks if today is Earth Hour day (the last Saturday of March).",
     "nl": "Controleert of vandaag Earth Hour dag is (de laatste zaterdag van maart).",
-    "de": "Prüft, ob heute Stunde der Erde Tag ist (der letzte Samstag im März).",
+    "de": "Prüft, ob heute Earth Hour Tag ist (der letzte Samstag im März).",
     "fr": "Vérifie si aujourd'hui est le jour d'Une Heure pour la Terre (le dernier samedi de mars).",
     "it": "Verifica se oggi è il giorno dell'Ora della Terra (l'ultimo sabato di marzo).",
     "sv": "Kontrollerar om idag är Earth Hour dag (den sista lördagen i mars).",

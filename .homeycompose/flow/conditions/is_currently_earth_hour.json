@@ -2,7 +2,7 @@
   "title": {
     "en": "It !{{is|isn't}} currently Earth Hour",
     "nl": "Het !{{is|is niet}} momenteel Earth Hour",
-    "de": "Es !{{ist|ist nicht}} gerade Stunde der Erde",
+    "de": "Es !{{ist|ist nicht}} gerade Earth Hour",
     "fr": "C'est !{{actuellement|pas actuellement}} Une Heure pour la Terre",
     "it": "È !{{attualmente|non attualmente}} Ora della Terra",
     "sv": "Det !{{är|är inte}} för närvarande Earth Hour",
@@ -16,7 +16,7 @@
   "hint": {
     "en": "Checks if it is currently Earth Hour (between 8:30 PM and 9:30 PM on the last Saturday of March).",
     "nl": "Controleert of het momenteel Earth Hour is (tussen 20:30 en 21:30 op de laatste zaterdag van maart).",
-    "de": "Prüft, ob gerade Stunde der Erde ist (zwischen 20:30 und 21:30 Uhr am letzten Samstag im März).",
+    "de": "Prüft, ob gerade Earth Hour ist (zwischen 20:30 und 21:30 Uhr am letzten Samstag im März).",
     "fr": "Vérifie si c'est actuellement Une Heure pour la Terre (entre 20h30 et 21h30 le dernier samedi de mars).",
     "it": "Verifica se è attualmente Ora della Terra (tra le 20:30 e le 21:30 dell'ultimo sabato di marzo).",
     "sv": "Kontrollerar om det för närvarande är Earth Hour (mellan 20:30 och 21:30 på den sista lördagen i mars).",

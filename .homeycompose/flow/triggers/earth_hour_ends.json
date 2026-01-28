@@ -2,7 +2,7 @@
   "title": {
     "en": "Earth Hour ends",
     "nl": "Earth Hour eindigt",
-    "de": "Stunde der Erde endet",
+    "de": "Earth Hour endet",
     "fr": "Une Heure pour la Terre se termine",
     "it": "Ora della Terra finisce",
     "sv": "Earth Hour slutar",
@@ -16,7 +16,7 @@
   "hint": {
     "en": "Triggers when Earth Hour ends (9:30 PM on the last Saturday of March).",
     "nl": "Activeert wanneer Earth Hour eindigt (21:30 op de laatste zaterdag van maart).",
-    "de": "Wird ausgelöst, wenn die Stunde der Erde endet (21:30 Uhr am letzten Samstag im März).",
+    "de": "Wird ausgelöst, wenn Earth Hour endet (21:30 Uhr am letzten Samstag im März).",
     "fr": "Se déclenche lorsque Une Heure pour la Terre se termine (21h30 le dernier samedi de mars).",
     "it": "Si attiva quando l'Ora della Terra finisce (21:30 dell'ultimo sabato di marzo).",
     "sv": "Utlöses när Earth Hour slutar (21:30 på den sista lördagen i mars).",

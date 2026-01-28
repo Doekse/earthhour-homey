@@ -2,7 +2,7 @@
   "title": {
     "en": "Earth Hour ends in...",
     "nl": "Earth Hour eindigt over...",
-    "de": "Stunde der Erde endet in...",
+    "de": "Earth Hour endet in...",
     "fr": "Une Heure pour la Terre se termine dans...",
     "it": "Ora della Terra finisce tra...",
     "sv": "Earth Hour slutar om...",
@@ -16,7 +16,7 @@
   "titleFormatted": {
     "en": "Earth Hour ends in [[amount]] minutes",
     "nl": "Earth Hour eindigt over [[amount]] minuten",
-    "de": "Stunde der Erde endet in [[amount]] Minuten",
+    "de": "Earth Hour endet in [[amount]] Minuten",
     "fr": "Une Heure pour la Terre se termine dans [[amount]] minutes",
     "it": "Ora della Terra finisce tra [[amount]] minuti",
     "sv": "Earth Hour slutar om [[amount]] minuter",
@@ -30,7 +30,7 @@
   "hint": {
     "en": "Checks if Earth Hour will end within the specified amount of minutes.",
     "nl": "Controleert of Earth Hour binnen het opgegeven aantal minuten zal eindigen.",
-    "de": "Prüft, ob die Stunde der Erde innerhalb der angegebenen Minutenanzahl endet.",
+    "de": "Prüft, ob Earth Hour innerhalb der angegebenen Minutenanzahl endet.",
     "fr": "Vérifie si Une Heure pour la Terre se terminera dans le nombre de minutes spécifié.",
     "it": "Verifica se l'Ora della Terra finirà entro il numero di minuti specificato.",
     "sv": "Kontrollerar om Earth Hour kommer att sluta inom det angivna antalet minuter.",
